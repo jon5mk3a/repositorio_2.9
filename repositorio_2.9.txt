@@ -1,1 +1,2 @@
 esto es un repositorio git.
+esta siendo modificado para fusionarlo con master.
